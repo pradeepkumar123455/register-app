@@ -15,8 +15,8 @@
   <name>Server</name>
   <description>Logic.</description>
 
-  <build>
-     <build>
+  
+<build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -28,7 +28,6 @@
         </configuration>
       </plugin>
     </plugins>
-  </build>
   </build>
 
   <dependencies>
